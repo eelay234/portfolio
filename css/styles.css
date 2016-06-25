@@ -1,0 +1,24 @@
+#wrapper {
+	background-color: #ababab;
+}
+
+#student_description {
+	background: #ececec;
+	padding: 10px 10px 5px 10px;
+}
+
+#links {
+	margin-top: 5px;
+}
+
+#links li {
+	display: inline-block;
+	width: 200px;
+}
+
+#portfolio_content {
+	background-color: #cecece;
+	width: 930px;
+	height: 600px;
+	margin-top: 0px;
+}
